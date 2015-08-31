@@ -1,5 +1,5 @@
 from urllib import urlopen
-from bs4	import	BeautifulSoup
+from bs4 import	BeautifulSoup
 
 html = urlopen("http://en.wikipedia.org/wiki/Kevin_Bacon")
 
